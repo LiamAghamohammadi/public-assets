@@ -8,7 +8,7 @@
         {
           "name": "Karing",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/Karing.png",
+          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/karing.png",
           "description": "Karing is the best app for using Liam Network services on Android.",
           "faDescription": "Karing بهترین برنامه برای استفاده از سرویس های لیام نتورک در Android می باشد.",
           "configLink": "karing://install-config?url={url}&name=Cetro | VPN Service",
@@ -25,7 +25,7 @@
         {
           "name": "Karing",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/Karing.jpg",
+          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/karing.jpg",
           "description": "Karing is the best free app for using Liam Network services on iOS.",
           "faDescription": "Karing بهترین برنامه رایگان برای استفاده از سرویس های لیام نتورک در ios می باشد.",
           "configLink": "karing://install-config?url={url}&name=Cetro | VPN Service",
@@ -42,7 +42,7 @@
         {
           "name": "Karing",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/Karing.png",
+          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/karing.png",
           "description": "Karing is the best software for using Liam Network services on Windows.",
           "faDescription": "Karing بهترین نرم افزار برای استفاده از سرویس های لیام نتورک در Windows می باشد.",
           "configLink": "karing://install-config?url={url}&name=Cetro | VPN Service",
