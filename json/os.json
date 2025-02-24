@@ -25,7 +25,7 @@
         {
           "name": "Karing",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/karing.jpg",
+          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/karing.png",
           "description": "Karing is the best free app for using Liam Network services on iOS.",
           "faDescription": "Karing بهترین برنامه رایگان برای استفاده از سرویس های لیام نتورک در ios می باشد.",
           "configLink": "karing://install-config?url={url}&name=Cetro | VPN Service",
