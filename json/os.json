@@ -11,7 +11,7 @@
           "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/v2rayNG.png",
           "description": "V2rayNG is the best app for using Liam Network services on Android.",
           "faDescription": "V2rayNG بهترین برنامه برای استفاده از سرویس های لیام نتورک در Android می باشد.",
-          "configLink": "karing://install-config?url={url}&name={USERNAME}",
+          "configLink": "karing://install-config?url={url}&name=Cetro | VPN Service",
           "downloadLink": "https://dot.karing.app/client.html?p=android",
           "videoLink": "https://example.com/v2rayng-video"
         }
@@ -28,7 +28,7 @@
           "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/streisand.jpg",
           "description": "Streisand is the best free app for using Liam Network services on iOS.",
           "faDescription": "Streisand بهترین برنامه رایگان برای استفاده از سرویس های لیام نتورک در ios می باشد.",
-          "configLink": "karing://install-config?url={url}&name={USERNAME}",
+          "configLink": "karing://install-config?url={url}&name=Cetro | VPN Service",
           "downloadLink": "https://apps.apple.com/app/karing/id6472431552",
           "videoLink": "https://example.com/streisand-video"
         }
@@ -45,7 +45,7 @@
           "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/v2rayN.png",
           "description": "V2rayN is the best software for using Liam Network services on Windows.",
           "faDescription": "V2rayN بهترین نرم افزار برای استفاده از سرویس های لیام نتورک در Windows می باشد.",
-          "configLink": "karing://install-config?url={url}&name={USERNAME}",
+          "configLink": "karing://install-config?url={url}&name=Cetro | VPN Service",
           "downloadLink": "https://dot.karing.app/client.html?p=windows",
           "videoLink": "https://example.com/v2rayn-video"
         }
