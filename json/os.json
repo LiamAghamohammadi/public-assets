@@ -1,6 +1,23 @@
 {
   "operatingSystems": [
     {
+      "name": "اندروید",
+      "engName": "Android",
+      "osLogo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/Android_logo_2019.svg.png",
+      "apps": [
+        {
+          "name": "Karing",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/v2rayNG.png",
+          "description": "V2rayNG is the best app for using Liam Network services on Android.",
+          "faDescription": "V2rayNG بهترین برنامه برای استفاده از سرویس های لیام نتورک در Android می باشد.",
+          "configLink": "karing://install-config?url={url}#Cetro",
+          "downloadLink": "https://dot.karing.app/client.html?p=android",
+          "videoLink": "https://example.com/v2rayng-video"
+        }
+      ]
+    },
+    {
       "name": "اپل",
       "engName": "iOS",
       "osLogo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/Apple_logo_black.svg",
@@ -14,23 +31,6 @@
           "configLink": "karing://install-config?url={url}",
           "downloadLink": "https://apps.apple.com/app/karing/id6472431552",
           "videoLink": "https://example.com/streisand-video"
-        }
-      ]
-    },
-    {
-      "name": "اندروید",
-      "engName": "Android",
-      "osLogo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/Android_logo_2019.svg.png",
-      "apps": [
-        {
-          "name": "Karing",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/v2rayNG.png",
-          "description": "V2rayNG is the best app for using Liam Network services on Android.",
-          "faDescription": "V2rayNG بهترین برنامه برای استفاده از سرویس های لیام نتورک در Android می باشد.",
-          "configLink": "karing://install-config?url={url}",
-          "downloadLink": "https://dot.karing.app/client.html?p=android",
-          "videoLink": "https://example.com/v2rayng-video"
         }
       ]
     },
