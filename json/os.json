@@ -45,7 +45,6 @@
           "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/karing.png",
           "description": "Karing is the best software for using Liam Network services on Windows.",
           "faDescription": "Karing بهترین نرم افزار برای استفاده از سرویس های لیام نتورک در Windows می باشد.",
-          "configLink": "karing://install-config?url={url}&name=Cetro | VPN Service",
           "downloadLink": "https://dot.karing.app/client.html?p=windows",
           "videoLink": "https://example.com/v2rayn-video"
         }
