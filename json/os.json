@@ -111,7 +111,7 @@
           "description": "A cross-platform V2Ray client.",
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
-          "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
+          "downloadLink": "https://apps.apple.com/app/v2box-v2ray-client/id6446814690",
           "tutorialSteps": [
             {
               "stepText": "Step 1: Download and install the V2box app from the App Store.",
