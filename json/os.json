@@ -143,7 +143,7 @@
           "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/v2rayN.png",
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
-          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-SelfContained.zip"
         },
         {
           "name": "Nekoray",
@@ -151,7 +151,7 @@
           "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/nekoray.jpeg",
           "description": "A cross-platform GUI client for V2Ray.",
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
+          "downloadLink": "https://github.com/Mahdi-zarei/nekoray/releases/download/4.2.12/nekoray-4.2.12-2025-03-02-windows64.zip"
         }
       ]
     },
@@ -166,7 +166,7 @@
           "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/v2rayN.png",
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
-          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-linux-64.deb"
         },
         {
           "name": "Nekoray",
@@ -174,7 +174,7 @@
           "logo": "https://raw.githubusercontent.com/LiamAghamohammadi/public-assets/refs/heads/main/icons/nekoray.jpeg",
           "description": "A cross-platform GUI client for V2Ray.",
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest"
+          "downloadLink": "https://github.com/Mahdi-zarei/nekoray/releases/download/4.2.12/nekoray-4.2.12-2025-03-02-linux64.zip"
         }
       ]
     }
